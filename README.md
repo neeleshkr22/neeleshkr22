@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeleshkr22&label=Profile%20views&color=0e75b6&style=flat" alt="neeleshkr22" /> </p>
 
-- 🔭 I’m currently working on **Website**
+- 🔭 I’m currently working on **WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **React, Java** 
 
 - 💬 Ask me about **C,C++,HTML,CSS,Python**
 
