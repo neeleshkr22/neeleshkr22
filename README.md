@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/neelesh-kumar-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/neelesh-kumar-rana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neelesh-kumar-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/neelesh-kumar-rana" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/neeleshrana22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neeleshrana22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/neeleshrana22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neeleshrana22" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/neelesh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="neelesh22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/neeleshkr22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/neeleshkr22/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/neeleshkr22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/neeleshkr22/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@neeleshrana22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@neeleshrana22" height="30" width="40" /></a>
 <a href="https://discord.gg/NEELESH#6125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NEELESH#6125" height="30" width="40" /></a>
 </p>
