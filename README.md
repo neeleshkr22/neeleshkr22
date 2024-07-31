@@ -1,7 +1,7 @@
 ![Header](./neelesh-banner.png)
 <h1 align="center">Hi 👋, I'm Neelesh Kumar Rana</h1>
 <h3 align="center">A passionate  developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVqbXA0Zzk0dG5mMzZ0cGI0NXpmYWhtaWIyZTdqdHVqcG5iOWl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeleshkr22&label=Profile%20views&color=0e75b6&style=flat" alt="neeleshkr22" /> </p>
 
