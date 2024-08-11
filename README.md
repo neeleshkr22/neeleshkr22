@@ -1,4 +1,4 @@
-![Header](./neelesh-banner.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Neelesh Kumar Rana</h1>
 <h3 align="center">A passionate  developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVqbXA0Zzk0dG5mMzZ0cGI0NXpmYWhtaWIyZTdqdHVqcG5iOWl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
